@@ -1,4 +1,4 @@
 # Simon-Game-JS
 
 ## Description
-A beginner-level project that implements Simon Game in Javascript. 
+A beginner-level project that implements Simon Game in Javascript and jQuery. 
